@@ -6,7 +6,7 @@ const employee=new mongoose.Schema({
     role: String,
     experience: String, 
     age: String
-
+    tencology :String
 
 })
 
